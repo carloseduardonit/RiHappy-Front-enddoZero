@@ -5,11 +5,11 @@
 
 <details>
 
-    <summary>
+<summary>
 
 ## Projeto 1: Criando sua Primeira Landing Page com HTML e CSS
 
-    </summary>
+ </summary>
 
 ### Entendendo o Desafio do Projeto 1
 
