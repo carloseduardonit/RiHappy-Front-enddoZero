@@ -42,6 +42,7 @@
 ## Projeto 2: Criando um Jogo do Detona Ralph com JavaScript
 
 </summary>
+
 ### Entendendo o Desafio do Projeto 2
 
 #### 🎯 AGORA É A SUA VEZ
