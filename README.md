@@ -45,7 +45,7 @@
 
 ### Entendendo o Desafio do Projeto 2
 
-#### 🎯 AGORA É A SUA VEZ
+#### 🎯 AGORA É A SUA VEZ do Projeto 2
 
 Chegou a hora de colocar em prática tudo aquilo que você aprendeu durante esse projeto.
 
@@ -91,4 +91,16 @@ Sabemos que toda jornada tem seus desafios, por isso separamos alguns links que 
 
 </details>
 
-Bons estudos!  😉
+## Projeto 4: Construindo uma Pokédex com JavaScript
+
+## Projeto 5: Criando um Jogo de Cartas do Yu-Gi-Oh! com JavaScript e CSS
+
+## Projeto 6:Construindo um Simulador de Piano com JavaScript e CSS
+
+## Projeto 7:Construindo uma Landing Page no Mundo Invertido com HTML e CSS
+
+## Projeto 8: Multiverso Spider-Man: Criando um Site com HTML, CSS e JavaScript
+
+## Projeto 9: Construindo seu Portfólio Front-end do Zero com HTML, CSS e JavaScript
+
+Bons estudos! 😉
