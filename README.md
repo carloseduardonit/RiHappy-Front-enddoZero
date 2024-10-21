@@ -118,6 +118,8 @@ Sabemos que toda jornada tem seus desafios, por isso separamos alguns links que 
 </summary>
 </details>
 
+---
+
 <details>
 
 <summary>
@@ -126,6 +128,8 @@ Sabemos que toda jornada tem seus desafios, por isso separamos alguns links que 
 
 </summary>
 </details>
+
+---
 
 <details>
 
@@ -136,6 +140,8 @@ Sabemos que toda jornada tem seus desafios, por isso separamos alguns links que 
 </summary>
 </details>
 
+---
+
 <details>
 
 <summary>
@@ -144,5 +150,39 @@ Sabemos que toda jornada tem seus desafios, por isso separamos alguns links que 
 
 </summary>
 </details>
+
+---
+
+<details>
+
+<summary> 
+
+## 📝 Estou sendo escrito em :point_left:
+ 
+</summary>
+
+> ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## :books: Material de Suporte :point_left:
+
+</summary>
+
+- [Iconografia](https://github.com/ikatyang/emoji-cheat-sheet/tree/master?tab=readme-ov-file#activities)
+- [Badges Basico](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
+- [Badges Avançado](https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#markdown-badges)
+- [Cards](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-stats.md)
+- [Sintaxe básica de gravação e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Trabalhar com formatação avançadano GitHub](https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting)
+
+</details>
+
 
 Bons estudos! 😉
