@@ -8,7 +8,7 @@
 
 <summary>
 
-## Projeto 1: Criando sua Primeira Landing Page com HTML e CSS
+## Projeto 1: Criando sua Primeira Landing Page com HTML e CSS :point_left:
 
  </summary>
 
@@ -39,7 +39,7 @@
 
 <summary>
 
-## Projeto 2: Criando um Jogo do Detona Ralph com JavaScript
+## Projeto 2: Criando um Jogo do Detona Ralph com JavaScript :point_left:
 
 </summary>
 
@@ -67,7 +67,7 @@ Sabemos que toda jornada tem seus desafios, por isso separamos alguns links que 
 
 <summary>
 
-## Projeto 3: Criando um Jogo da memória com Emojis Utilizando Javascript
+## Projeto 3: Criando um Jogo da memória com Emojis Utilizando Javascript :point_left:
 
 </summary>
 
@@ -95,7 +95,7 @@ Sabemos que toda jornada tem seus desafios, por isso separamos alguns links que 
 
 <summary>
 
-## Projeto 4: Construindo uma Pokédex com JavaScript
+## Projeto 4: Construindo uma Pokédex com JavaScript :point_left:
 
 </summary>
 </details>
@@ -104,7 +104,7 @@ Sabemos que toda jornada tem seus desafios, por isso separamos alguns links que 
 
 <summary>
 
-## Projeto 5: Criando um Jogo de Cartas do Yu-Gi-Oh! com JavaScript e CSS
+## Projeto 5: Criando um Jogo de Cartas do Yu-Gi-Oh! com JavaScript e CSS :point_left:
 
 </summary>
 </details>
@@ -113,18 +113,7 @@ Sabemos que toda jornada tem seus desafios, por isso separamos alguns links que 
 
 <summary>
 
-## Projeto 6: Construindo um Simulador de Piano com JavaScript e CSS
-
-</summary>
-</details>
-
----
-
-<details>
-
-<summary>
-
-## Projeto 7: Construindo uma Landing Page no Mundo Invertido com HTML e CSS
+## Projeto 6: Construindo um Simulador de Piano com JavaScript e CSS :point_left:
 
 </summary>
 </details>
@@ -135,7 +124,7 @@ Sabemos que toda jornada tem seus desafios, por isso separamos alguns links que 
 
 <summary>
 
-## Projeto 8: Multiverso Spider-Man: Criando um Site com HTML, CSS e JavaScript
+## Projeto 7: Construindo uma Landing Page no Mundo Invertido com HTML e CSS :point_left:
 
 </summary>
 </details>
@@ -146,9 +135,34 @@ Sabemos que toda jornada tem seus desafios, por isso separamos alguns links que 
 
 <summary>
 
-## Projeto 9: Construindo seu Portfólio Front-end do Zero com HTML, CSS e JavaScript
+## Projeto 8: Multiverso Spider-Man: Criando um Site com HTML, CSS e JavaScript :point_left:
 
 </summary>
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## Projeto 9: Construindo seu Portfólio Front-end do Zero com HTML, CSS e JavaScript :point_left:
+
+</summary>
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## 📬 Entre em contato pelo :point_left:
+
+</summary>
+
+> [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/Carlaol) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?1=pt_BR&phone=5521985745077) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:carlostecnico@mail.com) [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/Carlao_Me_Ajuda) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlao.me.ajuda/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carloseduardonit/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@carloseduardonit/)
+
 </details>
 
 ---
@@ -158,7 +172,7 @@ Sabemos que toda jornada tem seus desafios, por isso separamos alguns links que 
 <summary> 
 
 ## 📝 Estou sendo escrito em :point_left:
- 
+
 </summary>
 
 > ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
