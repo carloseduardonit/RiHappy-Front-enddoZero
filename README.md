@@ -91,16 +91,58 @@ Sabemos que toda jornada tem seus desafios, por isso separamos alguns links que 
 
 </details>
 
+<details>
+
+<summary>
+
 ## Projeto 4: Construindo uma Pokédex com JavaScript
+
+</summary>
+</details>
+
+<details>
+
+<summary>
 
 ## Projeto 5: Criando um Jogo de Cartas do Yu-Gi-Oh! com JavaScript e CSS
 
-## Projeto 6:Construindo um Simulador de Piano com JavaScript e CSS
+</summary>
+</details>
 
-## Projeto 7:Construindo uma Landing Page no Mundo Invertido com HTML e CSS
+<details>
+
+<summary>
+
+## Projeto 6: Construindo um Simulador de Piano com JavaScript e CSS
+
+</summary>
+</details>
+
+<details>
+
+<summary>
+
+## Projeto 7: Construindo uma Landing Page no Mundo Invertido com HTML e CSS
+
+</summary>
+</details>
+
+<details>
+
+<summary>
 
 ## Projeto 8: Multiverso Spider-Man: Criando um Site com HTML, CSS e JavaScript
 
+</summary>
+</details>
+
+<details>
+
+<summary>
+
 ## Projeto 9: Construindo seu Portfólio Front-end do Zero com HTML, CSS e JavaScript
+
+</summary>
+</details>
 
 Bons estudos! 😉
