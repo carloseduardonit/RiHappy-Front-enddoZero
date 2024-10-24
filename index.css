@@ -5,3 +5,7 @@ img.status{
     margin-right: auto;
     image-orientation: center;
 }
+aside{
+    inset-inline-start: initial;
+    margin-left: auto;
+}
