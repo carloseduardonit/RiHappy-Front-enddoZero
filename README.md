@@ -22,6 +22,7 @@
 
     Todo código-fonte desenvolvido para este conteúdo foi versionado no GitHub, no seguinte endereço:
     https://github.com/digitalinnovationone/trilha-css-desafio-01
+    ![clone](Img\Markdown\clone.png)
      
 ### Figma do Projeto 1
 
