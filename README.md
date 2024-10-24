@@ -24,7 +24,7 @@
     https://github.com/digitalinnovationone/trilha-css-desafio-01
 
 ![clone](https://github.com/carloseduardonit/RiHappy-Front-enddoZero/blob/main/Img/Markdown/clone.png)
-     
+
 ### Figma do Projeto 1
 
     O link do protótipo utilizado no Figma está disponível no seguinte endereço:
