@@ -1,0 +1,66 @@
+body{
+    background-color: black;
+}
+header {
+    background-image: url("/Projeto%201/assets/images/banner.png");
+    background-color: black;
+    
+    margin-right: auto;
+    text-align: center;
+    text-decoration-color: white;
+    align-items: center;
+
+}
+h1{
+    text-transform: uppercase;
+    height: 20px;
+}
+
+h1,
+h2,
+span {
+    width: 50;
+    color: dodgerblue;
+}
+
+main,
+footer {
+    background-color: black;
+    margin-right: auto;
+    text-align: center;
+    align-items: center;
+}
+
+#transform-world {
+    size: 500px 500px;
+    background-image: url("/Projeto 1/assets/images/woman-code.png") ;
+    text-align: left;
+
+}
+
+.module-list {
+
+    margin-right: 0%;
+    align-items: center;
+}
+.module{
+    background-color: dimgrey;
+    column-width: auto;
+    border-radius: 15px;
+    height: auto;
+    width: 500px;
+}
+p,
+.module {
+    
+    color: white;
+}
+
+button {
+    background-color: transparent;
+    border-color: dodgerblue;
+    width: 300px;
+    height: 50px;
+    color: dodgerblue;
+    text-transform: uppercase;
+}
